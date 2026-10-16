@@ -21,6 +21,10 @@ mean(vote(trees, X[601:end, :], 2; weights) .!= y[601:end])  # the test error
 
 [arc-fs: adaptive resampling with pruned trees](vignette/ArcFS.pdf)
 
+## License
+
+MIT (see [LICENSE](LICENSE)).
+
 ## Tests
 
 The tests compute the published tables below from their data and check every printed value, rounded to the digits printed:

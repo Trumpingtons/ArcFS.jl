@@ -1,0 +1,15 @@
+# The vignette of ArcFS.jl, written by Pollis (Compose > New Methods > Package and Publish) and shown in
+# Help > Documentation > Vignettes once the package is installed.
+
+article = "https://doi.org/10.1214/aos/1024691079"
+author = "Antonio Saragga Seabra"
+citation = "Breiman, L. (1998). Arcing classifiers. The Annals of Statistics 26(3), 801-849."
+description = "Breiman's arc-fs, the AdaBoost of his random forests paper: adaptive resampling with CART trees pruned by cost complexity on a second draw, voting with weights, tested on his published test errors for 20 data sets."
+license = "MIT"
+method = "arc-fs: adaptive resampling with pruned trees"
+package = "ArcFS"
+pdf = "ArcFS.pdf"
+repository = "https://github.com/Trumpingtons/ArcFS.jl"
+title = "arc-fs: adaptive resampling with pruned trees"
+topic = "Boosting"
+version = "0.2.0"

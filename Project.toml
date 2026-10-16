@@ -1,6 +1,6 @@
 name = "ArcFS"
 uuid = "822a6e3c-ddba-440e-9a72-da13d06323be"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Antonio Saragga Seabra"]
 
 [deps]
