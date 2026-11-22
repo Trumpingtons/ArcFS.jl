@@ -19,7 +19,7 @@ mean(vote(trees, X[601:end, :], 2; weights) .!= y[601:end])  # the test error
 
 ## Vignette
 
-[arc-fs: adaptive resampling with pruned trees](vignette/ArcFS.pdf)
+[arc-fs: adaptive resampling with pruned trees](vignette/ArcFS.tex), its LaTeX source: Pollis compiles it in Help > Documentation > Package Vignettes.
 
 ## License
 
